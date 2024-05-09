@@ -33,6 +33,6 @@
 
 Pablo Aldair Rosas Ramirez
 
-## Licencia
+## 
 
 Creditos a Curso de HTML ; CSS ; JS de dev-packit

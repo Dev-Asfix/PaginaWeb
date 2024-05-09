@@ -4,7 +4,7 @@
 
 ## Características
 
-- Diseño responsivo utilizando CSS puro y media queries.
+- Diseño responsivo utilizando CSS y CSSS.
 - Interactividad añadida con JavaScript para mejorar la experiencia del usuario.
 - Estructura clara y legible con HTML semántico.
 - Fácilmente personalizable para adaptarse a diferentes propósitos.
@@ -25,9 +25,6 @@
 1. Clona este repositorio: `git clone [https://github.com/usuario/repositorio.git](https://github.com/Dev-Asfix/PaginaWeb.git)`
 2. Abre el archivo `index.html` en tu navegador.
 
-## Contribución
-
-¡Siéntete libre de contribuir a este proyecto! Puedes abrir un issue o enviar un pull request.
 
 ## Autor
 

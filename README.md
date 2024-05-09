@@ -22,7 +22,7 @@
 
 ## Instalación
 
-1. Clona este repositorio: `git clone https://github.com/usuario/repositorio.git`
+1. Clona este repositorio: `git clone [https://github.com/usuario/repositorio.git](https://github.com/Dev-Asfix/PaginaWeb.git)`
 2. Abre el archivo `index.html` en tu navegador.
 
 ## Contribución

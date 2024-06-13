@@ -1,4 +1,4 @@
-# Mi Página Web
+# Página Web
 
 ¡Bienvenido a mi página web! Este proyecto es una página web estática creada con HTML, CSS y JavaScript. En esta página, encontrarás información sobre mí y mis proyectos, así como enlaces a mis perfiles en redes sociales.
 
